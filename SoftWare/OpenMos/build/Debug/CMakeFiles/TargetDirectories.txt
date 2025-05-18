@@ -1,0 +1,7 @@
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/CMakeFiles/OpenMos.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/User/CMakeFiles/edit_cache.dir
+C:/Users/30712/Documents/123/Wireless Charger/OpenMos/build/Debug/User/CMakeFiles/rebuild_cache.dir

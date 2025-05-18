@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "mpu6050.h": "c",
+        "can_receive.h": "c",
+        "main.h": "c",
+        "cmsis_os.h": "c",
+        "pid.h": "c",
+        "type_traits": "c",
+        "uadc.h": "c",
+        "function.h": "c"
+    }
+}
